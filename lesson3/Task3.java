@@ -2,19 +2,19 @@ public class Task3 {
     public static void main(String[] args) {
         int t=0;
         if (t >= 6 && t <= 12) {
-            System.out.println("Доброе утро");
+            System.out.println("Р”РѕР±СЂРѕРµ СѓС‚СЂРѕ");
         }
         else if (t >= 12 && t <= 18) {
-            System.out.println("Добрый день");
+            System.out.println("Р”РѕР±СЂС‹Р№ РґРµРЅСЊ");
         }
         else if (t >= 19 && t<= 23) {
-            System.out.println("Добрый вечер");
+            System.out.println("Р”РѕР±СЂС‹Р№ РІРµС‡РµСЂ");
         }
         else if (t >=0 && t <= 6) {
-            System.out.println("Доброй ночи");
+            System.out.println("Р”РѕР±СЂРѕР№ РЅРѕС‡Рё");
         }
         else {
-            System.out.println("Неправильное время");
+            System.out.println("РќРµРїСЂР°РІРёР»СЊРЅРѕРµ РІСЂРµРјСЏ");
         }
     }
 }
