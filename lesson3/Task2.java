@@ -2,19 +2,19 @@ public class Task2 {
     public static void main(String[] args) {
         int num = 5;
         if (num == 1) {
-            System.out.println("Понедельник");
+            System.out.println("РџРѕРЅРµРґРµР»СЊРЅРёРє");
         } else if (num == 2) {
-            System.out.println("Вторник");
+            System.out.println("Р’С‚РѕСЂРЅРёРє");
         } else if (num == 3) {
-            System.out.println("Среда");
+            System.out.println("РЎСЂРµРґР°");
         } else if (num == 4) {
-            System.out.println("Четверг");
+            System.out.println("Р§РµС‚РІРµСЂРі");
         } else if (num == 5) {
-            System.out.println("Пятница");
+            System.out.println("РџСЏС‚РЅС†Р°");
         } else if (num == 6) {
-            System.out.println("Суббота");
+            System.out.println("РЎСѓР±Р±РѕС‚Р°");
         } else if (num == 7) {
-            System.out.println("Воскресенье");
+            System.out.println("Р’РѕСЃРєСЂРµСЃРµРЅСЊРµ");
         }
     }
 }
