@@ -3,25 +3,25 @@ public class Task1 {
         int num=7;
         switch (num) {
             case 1:
-                System.out.println("Понедельник");
+                System.out.println("РџРѕРЅРµРґРµР»СЊРЅРёРє");
                 break;
             case 2:
-                System.out.println("Вторник");
+                System.out.println("Р’С‚РѕСЂРЅРёРє");
                 break;
             case 3:
-                System.out.println("Среда");
+                System.out.println("РЎСЂРµРґР°");
                 break;
             case 4:
-                System.out.println("Четверг");
+                System.out.println("Р§РµС‚РІРµСЂРі");
                 break;
             case 5:
-                System.out.println("Пятница");
+                System.out.println("РџСЏС‚РЅРёС†Р°");
                 break;
             case 6:
-                System.out.println("Суббота");
+                System.out.println("РЎСѓР±Р±РѕС‚Р°");
                 break;
             case 7:
-                System.out.println("Воскресенье");
+                System.out.println("Р’РѕСЃРєСЂРµСЃРµРЅСЊРµ");
                 break;
         }
     }
