@@ -5,7 +5,7 @@ public class Task2 {
         String lineNumber = "";
         while(x <= 10) {
             lineNumber += number + " ";
-            number --;
+            number--;
             x++;
         }
         System.out.println(lineNumber);
