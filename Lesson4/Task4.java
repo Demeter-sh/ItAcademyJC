@@ -1,17 +1,17 @@
 public class Task4 {
     public static void main(String[] args) {
-        int x = 1;
-        int y = 1;
-        int z = 0;
-        while (x <= 10){
-            while (y <= 10){
-            z = y * x;
-                System.out.print(z + " ");
-                y++;
+        int firstNum = 1;
+        int secondNum = 1;
+        int result = 0;
+        while (firstNum <= 10) {
+            while (secondNum <= 10) {
+                result = secondNum * firstNum;
+                System.out.printf("%4d",result);
+                secondNum++;
             }
-            x++;
-            System.out.println();
-            y=1;
+            System.out.println("");
+            firstNum++;
+            secondNum = 1;
         }
     }
 }
